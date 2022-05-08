@@ -2,9 +2,10 @@
     <string name="app_name">My First Application</string>
     <string name="button">Button</string>
     <string name="www_kinopoisk_ru">Постеры предоставлены www.kinopoisk.ru</string>
-    <string name="btn_menu">Меню</string>
-    <string name="btn_favourite">Избранное</string>
-    <string name="btn_watch_later">Посмотреть позже</string>
-    <string name="btn_selections">Подборки</string>
-    <string name="btn_settings">Настройки</string>
+    <string name="menu_settings_title">Настройки</string>
+    <string name="menu_favorites_title">Избранное</string>
+    <string name="menu_watch_later_title">Посмотреть позже</string>
+    <string name="menu_selections_title">Подборки</string>
+    <string name="page_title">Search it!</string>
+    <string name="film_search">FilmSearch</string>
 </resources>
